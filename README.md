@@ -42,7 +42,7 @@ Berikut ini adalah bahasa pemrograman dan teknologi maupun library yang ada pada
 
 # - Preview Halaman Utama
 
-[![Aimeos TYPO3 demo](./assets/mainPageUI.jpg)](http://typo3.demo.aimeos.org/)
+[![Aimeos TYPO3 demo](./src/UI/assets/mainPageUI.jpg)](http://typo3.demo.aimeos.org/)
 
 ---
 
@@ -52,4 +52,4 @@ Berikut ini adalah bahasa pemrograman dan teknologi maupun library yang ada pada
 - [Laporan](https://docs.google.com/document/d/1XGC0nfJi1o2XNUkILSqLR8uq3SKGrlIEmbJzueXKgBw/edit)
 - [Design](https://www.figma.com/file/hi0JFWkuKQbLd3h48okuoO/Untitled?node-id=2%3A4)
 - [Slide Presentasi](https://docs.google.com/presentation/d/15TkydV-cCkR7cZbCfkLPWGdbpXHHWThzDmmsGXbOtww/edit#slide=id.g71fdc4dfea_0_210)
-- [Source code](https://github.com/MrNewbie3/tubes-2-tefa8/tree/main/src)
+- [Source code](https://github.com/MrNewbie3/tubes-2-tefa8/tree/main/src/UI)
