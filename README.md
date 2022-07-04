@@ -1,5 +1,5 @@
 <a href="https://formpendaftaran.netlify.app">
-    <img src="./assets/1594112773573_compress_PNG%20Logo%20Sekunder%20Telkom.png" alt="Telkom Indonesia logo" title="Aimeos" align="right" height="60" />
+    <img src="./src/UI/assets/1594112773573_compress_PNG%20Logo%20Sekunder%20Telkom.png" alt="Telkom Indonesia logo" title="Aimeos" align="right" height="60" />
 </a>
 
 # - Telkom Company
