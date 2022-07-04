@@ -1,0 +1,22 @@
+{
+  "name": "webtubes",
+  "version": "1.0.0",
+  "description": "web tubes tugas no 2",
+  "main": "dataLogic.js",
+  "type": "module",
+  "scripts": {
+    "test": "open"
+  },
+  "author": "Mr Newbie",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "jquery": "^3.6.0",
+    "sweetalert2": "^11.4.19",
+    "validate.js": "^0.13.1",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
