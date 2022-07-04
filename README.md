@@ -1,5 +1,5 @@
-<a href="https://aimeos.org/">
-    <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+<a href="https://formpendaftaran.netlify.app">
+    <img src="./assets/1594112773573_compress_PNG%20Logo%20Sekunder%20Telkom.png" alt="Telkom Indonesia logo" title="Aimeos" align="right" height="60" />
 </a>
 
 # - Telkom Company
@@ -36,6 +36,10 @@ Berikut ini adalah bahasa pemrograman dan teknologi maupun library yang ada pada
 
 ---
 
+# - Autentikasi
+
+    Autentikasi untuk field kosong, email dan ukuran file yang melebihi 500kb menggunakan validate dan validator js
+
 # - Preview Halaman Utama
 
 [![Aimeos TYPO3 demo](./assets/mainPageUI.jpg)](http://typo3.demo.aimeos.org/)
@@ -44,10 +48,8 @@ Berikut ini adalah bahasa pemrograman dan teknologi maupun library yang ada pada
 
 ## Links Dokumentasi Maupun Project
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fhi0JFWkuKQbLd3h48okuoO%2FUntitled%3Fnode-id%3D2%253A4" allowfullscreen></iframe>
-
-- [Web site](https://aimeos.org/integrations/typo3-shop-extension/)
-- [Documentation](https://aimeos.org/docs/TYPO3)
+- [Web site](https://formpendaftaran.netlify.app)
+- [Laporan](https://docs.google.com/document/d/1XGC0nfJi1o2XNUkILSqLR8uq3SKGrlIEmbJzueXKgBw/edit)
 - [Design](https://www.figma.com/file/hi0JFWkuKQbLd3h48okuoO/Untitled?node-id=2%3A4)
-- [Issue tracker](https://github.com/aimeos/aimeos-typo3/issues)
-- [Source code](https://github.com/aimeos/aimeos-typo3)
+- [Slide Presentasi](https://docs.google.com/presentation/d/15TkydV-cCkR7cZbCfkLPWGdbpXHHWThzDmmsGXbOtww/edit#slide=id.g71fdc4dfea_0_210)
+- [Source code](https://github.com/MrNewbie3/tubes-2-tefa8/tree/main/src)
