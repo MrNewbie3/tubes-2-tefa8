@@ -51,8 +51,7 @@ send.addEventListener("click", () => {
       if (arr[index] === true) {
         nill[index].classList.remove("hidden");
       } else if (arr[index] === false) {
-        const min2 = index - 2;
-        nill[min2].classList.add("hidden");
+        nill[index].classList.add("hidden");
       }
     }
     arr.splice(0, arr.length);
