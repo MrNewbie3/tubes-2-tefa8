@@ -42,7 +42,7 @@ Berikut ini adalah bahasa pemrograman dan teknologi maupun library yang ada pada
 
 # - Preview Halaman Utama
 
-[![Aimeos TYPO3 demo](./src/UI/assets/mainPageUI.jpg)](http://typo3.demo.aimeos.org/)
+[![Aimeos TYPO3 demo](./src/UI/assets/mainPageUI.jpg)](https://formpendaftaran.netlify.app)
 
 ---
 
